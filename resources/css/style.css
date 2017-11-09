@@ -2,9 +2,26 @@ body {
   text-align: center;
   font-family: verdana;
   background-color: black;
-}
-h1 {
   color: white;
-  font-weight: normal;
+}
+.title {
   font-size: 50px;
+  font-weight: normal;
+}
+.subtitle {
+  font-size: 42px;
+  font-weight: 300;
+}
+.tagline {
+  font-size: 21px;
+  color: gray;
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+footer {
+  text-align: right;
 }
